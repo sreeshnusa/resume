@@ -20,7 +20,7 @@ Artificial Intelligence & Data Science undergraduate with knowledge in SQL, Pyth
 
 ### **B.Tech – Artificial Intelligence and Data Science** (2023 – 2027)
 * **Institution**: Nehru Institute of Engineering and Technology, Anna University  
-* **CGPA**: **7.6**
+* **CGPA**: **7.33**
 
 ### **Class XII (CBSE)** (2022 – 2023)
 * **Institution**: S.R.K International School  
